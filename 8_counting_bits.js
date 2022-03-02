@@ -15,5 +15,4 @@ var countBits = function(n) {
     }
     return output;
 };
-
 console.log(countBits(5));

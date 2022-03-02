@@ -12,5 +12,4 @@ var countOdds = function(low, high) {
         }
     return ((high-low)/2);   
 };
-
 console.log(countOdds(-2,3));
